@@ -1,0 +1,7 @@
+Vou nomear os interruptores como 1,2 e 3 para ficar mais fácil a compreensão. 
+Eu ligaria o interruptor 1 e 2 e iria nas salas. 
+Uma sala estará apagada, logo já tenho a resposta de qual sala está ligada ao interruptor 3. 
+Retorno a sala dos interruptores, e desligo o interruptor 2. 
+Desse forma, sobra apenas uma sala com a lampada acessa, e como eu já sei qual sala pertence ao interruptor 3, 
+saberei qual sala teve a lampada apagada. 
+Com apenas duas idas a sala dos interruptores, temos as respostas.

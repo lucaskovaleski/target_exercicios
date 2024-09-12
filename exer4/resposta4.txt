@@ -1,0 +1,6 @@
+a) o proximo numero é 9
+b) o proximo numero é 128
+c) o proximo numero é 49
+d) o proximo numero é 100
+d) o proximo numero é 13
+f) o proximo numero é 200
